@@ -1,0 +1,5 @@
+{
+	"ip":"regmiaashish2021EFRA.aternos.me",
+	"port": "21649",
+	"name": "aashish"
+}
